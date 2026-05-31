@@ -1,8 +1,6 @@
 # Acerie
 
-AI-powered math learning platform for Singapore Secondary and JC students.
-
-Acerie helps students practise mathematics, receive AI-assisted marking and feedback, and plan their revision based on their mistakes.
+AI-powered learning platform for Singapore Secondary and JC students focusing on Mathematics. Our platform allow students to practise Mathematics papers, receive AI-assisted marking and feedback, and plan their revision based on their learning objectives.
 
 ## Project Objective
 
@@ -18,9 +16,7 @@ We are building a platform that supports:
 
 ## Current Focus
 
-Acerie is currently in the proof-of-concept stage, focused on Secondary O-Level students taking GCE 4049 Additional Mathematics.
-
-The platform is designed to expand to more subjects and education levels over time.
+Acerie is currently in the proof-of-concept stage, focused on Secondary O-Level students taking GCE 4049 Additional Mathematics. The platform is designed to expand to more subjects and education levels over time.
 
 ## Key Features
 
@@ -28,12 +24,11 @@ The platform is designed to expand to more subjects and education levels over ti
 - Student attempts: students submit photos or scans of handwritten work.
 - AI marking: answers are read and marked against reference answer keys.
 - Feedback and planning: students review mistakes and receive revision guidance.
-- Answer key submission: reference answers can be added for marking and solutions.
 - Question generation: the question bank supports generation of new practice questions.
 
 ## Team
 
-We are four penultimate-year Data Science and Artificial Intelligence students building Acerie as full-stack developers.
+We are a team of four penultimate-year Data Science and Artificial Intelligence students focusing on full-stack development.
 
 | Name | Role |
 | --- | --- |
@@ -46,34 +41,26 @@ We are four penultimate-year Data Science and Artificial Intelligence students b
 
 | Update | Period | Summary | Links |
 | --- | --- | --- | --- |
-| Progress Update 1 | Apr-May 2026 | Project overview, team introduction, POC demo, baseline features, and roadmap. | [YouTube video](https://www.youtube.com/watch?v=KFlJKi0wZbU) / [Slides](progress/Acerie%20Progress%20Update%201.pdf) |
-
-## Progress Update 1 Highlights
-
-- Defined Acerie's core objective and mission.
-- Built an initial admin studio for paper ingestion and content management.
-- Created a proof-of-concept flow for students to attempt uploaded papers.
-- Implemented AI-assisted marking against reference answer keys.
-- Started work on generated questions using a RAG and self-refinement pipeline.
-- Demonstrated template-based question generation with verification checks.
+| Progress Update 1 | Apr-May 2026 | Project overview, team introduction, POC demo, and baseline features. | [YouTube video](https://www.youtube.com/watch?v=KFlJKi0wZbU) / [Slides](progress/Acerie%20Progress%20Update%201.pdf) |
 
 ## Roadmap
 
 Next priorities:
 
+- Improve the frontend User Interface and User Experience.
 - Advanced question and full-paper generation based on the syllabus.
 - Smarter feedback that uses past corrections and worked solutions.
-- A personalised learning planner targeting weak topics before exams.
-- Expanded topic coverage with stronger validation of generated questions.
+- A personalised learning planner targeting weak topics.
+- Expand topic coverage with validation of AI-generated questions.
 
 ## SEP Reporting
 
 - SEP Team: Acerie
-- Status: Active proof-of-concept
+- Status: Proof-of-concept phase
 - Start Date: April 2026
-- Finance/Budget: Not publicly disclosed yet
-- Awards/Competitions: No public updates yet
-- Investment: No public updates yet
-- Press/News: No public updates yet
+- Finance/Budget: No update yet
+- Awards/Competitions: No updates yet
+- Investment: No updates yet
+- Press/News: No updates yet
 
-This repository will be updated at least once every two months with progress videos, slides, and development updates.
+This repository will be updated once every two months with progress videos, slides, and development updates.
